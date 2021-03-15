@@ -36,7 +36,7 @@ User can search the UFO sighting using any one of the data element by entering a
 
 #### Filtering data by Country:
 
-![screenshot of filtering by country](static/images\/ilter_by_country.png)
+![screenshot of filtering by country](static/images/filter_by_country.png)
 
 ### Filtering by more than one element
 
