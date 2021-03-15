@@ -15,7 +15,7 @@ The filter are provided on following key data elements:
 ## Solution overview:
 
 - Data file [JSON data file](js/data.js)
-- Image file [Iamge file used](static\images\nasa.jpg)
+- Image file [Iamge file used](static/images/nasa.jpg)
 - Software:
     - JavaScript
     - html
