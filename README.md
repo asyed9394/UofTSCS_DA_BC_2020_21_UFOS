@@ -14,8 +14,8 @@ The filter are provided on following key data elements:
 
 ## Solution overview:
 
-- Data file [JSON data file](\js\data.js)
-- Image file [Iamge file used](\static\images\nasa.jpg)
+- Data file [JSON data file](js/data.js)
+- Image file [Iamge file used](static\images\nasa.jpg)
 - Software:
     - JavaScript
     - html
@@ -32,11 +32,11 @@ User can search the UFO sighting using any one of the data element by entering a
 
 #### Filtering data by Date:
 
-![screenshot of filtering by date](\static\images\filter_by_date.png)
+![screenshot of filtering by date](static\images\filter_by_date.png)
 
 #### Filtering data by Country:
 
-![screenshot of filtering by country](\static\images\filter_by_country.png)
+![screenshot of filtering by country](static\images\filter_by_country.png)
 
 ### Filtering by more than one element
 
@@ -44,19 +44,19 @@ User can search the UFO sighiting by providing search criteria for more than one
 
 #### Filtering data by Date and Country:
 
-![screenshot of filtering by date and country](\static\images\filter_by_date_country.png)
+![screenshot of filtering by date and country](static\images\filter_by_date_country.png)
 
 
 #### Filtering data by Shape and Country:
 
-![screenshot of filtering by shape and country](\static\images\filter_by_shape_country.png)
+![screenshot of filtering by shape and country](static\images\filter_by_shape_country.png)
 
 
 ### Removing a filter
 
 User can remove filter by removing the search box contents using backspace or delete keyboard buttong. Basically if the value in the serachbox is empty string then fitler is removed.
 
-![screenshot of removing fitler](\static\images\removing_filter.png)
+![screenshot of removing fitler](static\images\removing_filter.png)
 
 ## Summary:
 
