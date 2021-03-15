@@ -73,7 +73,7 @@ There are multiple drawback of this new design. e.g:
 
 Based on the above mentioned draw back following items should be consideted for future develpment.
 
-1. Reomve case senitivity when searching text data elemenrts. i.e conver input and data value to all upper or all lower before applying filter.
+1. Reomve case senitivity when searching text data elemenrts. i.e convert both user input and data value to all upper or all lower before applying filter.
 2. Change date filter so that it can pick date from a caledar.
 3. Allow searching for a period of days rather than signle data at a time.
 4. Change the table format such that it either scroll within table only but keep all other content visible . so scroll rows within the table, but keep Filter criteria , navigation bar visibale.
